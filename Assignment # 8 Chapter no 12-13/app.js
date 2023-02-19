@@ -1,6 +1,17 @@
-// ---------CHAPTER 12 & 13 "IF…ELSE & ELSE IF STATEMENT,TESTING SET OF CONDITIONS"-----------
+// ---------CHAPTER 12 & 14 "IF…ELSE & ELSE IF STATEMENT,TESTING SET OF CONDITIONS"-----------
 
 // ----------------Question no 1-----------------
+
+// let num = +prompt("Tell me any number");
+
+// if (num % 3 === 0) {
+//     console.log(num / 3);
+// } else {
+//     console.log(`Number is not divisible by 3`);
+// }
+
+
+
 
 // let text = prompt("write somthing here...");
 
@@ -84,3 +95,40 @@
 
 // ----------------Question no 5-----------------
 
+// var myPassword = "Karachi90";
+
+// var password = prompt("Please tell me your Password?");
+
+// if (password === "" || password === undefined) {
+//     alert("Please enter your password");
+// } else if (password === myPassword) {
+//     alert("Correct! The password you entered matches the original password");
+// } else {
+//     alert("Sorry! your password is incorrect");
+// }
+
+
+
+// ----------------Question no 6-----------------
+
+// var greeting;
+
+// var hour = +prompt("what time is it in hours?")
+
+// if (hour < 18) {
+//     greeting = "Good Day";
+//     alert(greeting);
+// } else {
+//     greeting = "Good Evening";
+//     alert(greeting);
+// }
+
+
+
+// ----------------Question no 7-----------------
+
+// var time = +prompt("what time is it in 24 Hours format?");
+
+// function timeDuration () {
+    
+// }

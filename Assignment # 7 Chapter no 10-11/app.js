@@ -281,9 +281,9 @@
 
 // let firstNum = Number(prompt("Tell me First Number"));
 
-// let secondNum = Number(prompt("Tell me Second Number"));
-
 // let operation = prompt("Tell me operation do you want ..?");
+
+// let secondNum = Number(prompt("Tell me Second Number"));
 
 // if (operation == "+") {
 
