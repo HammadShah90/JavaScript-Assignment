@@ -251,14 +251,14 @@
 
 // ------------Question no 19------------
 
-const phoneMenufactures = ["Apple", "Samsung", "Motorola", "Nokia", "Sony", "Haier"];
+// const phoneMenufactures = ["Apple", "Samsung", "Motorola", "Nokia", "Sony", "Haier"];
 
-document.write(`<select name="Devices">
-                    <option value="Apple" selected>${phoneMenufactures[0]}</option>
-                    <option value="Samsung">${phoneMenufactures[1]}</option>
-                    <option value="Motorola">${phoneMenufactures[2]}</option>
-                    <option value="Nokia">${phoneMenufactures[3]}</option>
-                    <option value="Sony">${phoneMenufactures[4]}</option>
-                    <option value="Haier">${phoneMenufactures[5]}</option>
-                </select>`
-)
+// document.write(`<select name="Devices">
+//                     <option value="Apple" selected>${phoneMenufactures[0]}</option>
+//                     <option value="Samsung">${phoneMenufactures[1]}</option>
+//                     <option value="Motorola">${phoneMenufactures[2]}</option>
+//                     <option value="Nokia">${phoneMenufactures[3]}</option>
+//                     <option value="Sony">${phoneMenufactures[4]}</option>
+//                     <option value="Haier">${phoneMenufactures[5]}</option>
+//                 </select>`
+// )
